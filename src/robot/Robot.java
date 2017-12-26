@@ -11,7 +11,7 @@ public abstract class Robot {
 	public KnifeAction knifeAction;
 	
 	public Robot(){
-		
+		System.out.println("roBot");
 	}
 	public abstract void shape();
 	
